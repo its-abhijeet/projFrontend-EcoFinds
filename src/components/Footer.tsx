@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="lg:col-span-3">
             <Link href="/" className="inline-block">
               <Image
-                src="/logo-white.png"
+                src="/Ecofind-white.png"
                 alt="Green Cycle Hub Logo"
                 width={175}
                 height={175}
